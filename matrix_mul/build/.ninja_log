@@ -1,0 +1,4 @@
+# ninja log v5
+0	2	1712225895078108125	CMakeFiles/assembly-x64.dir/mat_mul.asm.o	b42cf3850665277a
+0	18	1712225895094108066	CMakeFiles/assembly-x64.dir/main.c.o	7348546ce30c985b
+18	26	1712225895098108052	assembly-x64	5209f40b40dec5f8
